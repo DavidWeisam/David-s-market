@@ -1,0 +1,16 @@
+{
+    "sections" : [
+    {
+    "Meat" : {"Chicken" : 20, "Beef" : 30, "Pork" : 30, "Salmon" : 40}
+    },
+    {
+    "Bread" : {"Baguette" : 10, "Naan" : 5, "Sourdough" : 15, "Pita" : 30}
+    },
+    {
+    "Vegetables" : {"Carrot" : 10, "Tomato" : 20, "Broccoli" : 22, "Spinach" : 25}
+    },
+    {
+    "Fruits" : {"Appel" : 30, "Banana" : 22, "Orange" : 24, "Strawberry" : 34}
+    }
+]
+}
