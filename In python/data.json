@@ -1,0 +1,94 @@
+{
+    "sections": {
+      "fruits": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 1.99
+        },
+        {
+          "id": 2,
+          "name": "Banana",
+          "price": 0.99
+        },
+        {
+          "id": 3,
+          "name": "Orange",
+          "price": 2.49
+        },
+        {
+          "id": 4,
+          "name": "Grapes",
+          "price": 3.99
+        }
+      ],
+      "vegetables": [
+        {
+          "id": 5,
+          "name": "Carrot",
+          "price": 0.79
+        },
+        {
+          "id": 6,
+          "name": "Broccoli",
+          "price": 1.49
+        },
+        {
+          "id": 7,
+          "name": "Tomato",
+          "price": 1.29
+        },
+        {
+          "id": 8,
+          "name": "Spinach",
+          "price": 1.99
+        }
+      ],
+      "breads": [
+        {
+          "id": 9,
+          "name": "Pita",
+          "price": 2.49
+        },
+        {
+          "id": 10,
+          "name": "Ciabatta",
+          "price": 2.99
+        },
+        {
+          "id": 11,
+          "name": "Naan",
+          "price": 1.99,
+          "quantity": 110
+        },
+        {
+          "id": 12,
+          "name": "Baguette",
+          "price": 3.49
+        }
+      ],
+      "meats": [
+        {
+          "id": 13,
+          "name": "Chicken",
+          "price": 5.99
+        },
+        {
+          "id": 14,
+          "name": "Beef",
+          "price": 9.99
+        },
+        {
+          "id": 15,
+          "name": "Pork",
+          "price": 7.49
+        },
+        {
+          "id": 16,
+          "name": "Salmon",
+          "price": 10.99
+        }
+      ]
+    }
+  }
+  
